@@ -58,8 +58,7 @@ npm start
   state persistence across sessions.
 - Styled Components: A CSS-in-JS library for styling React components with
   scoped styles.
-- [MockAPI](https://mockapi.io/): A platform for creating mock APIs, utilized as
-  the database for fetching and storing application data.
+
 
 
 ## Contributor
